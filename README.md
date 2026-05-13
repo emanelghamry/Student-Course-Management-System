@@ -17,5 +17,12 @@ A C++ console application for managing student records, academic performance, an
    ```bash
    g++ main.cpp -o StudentSystem
 
-
+زتنا====-0 لاراا
 -------------------------
+
+
+ 55888888888888888888888888888888888
+
+
+ةةةنن-----------------90لت
+ممممممممممم
