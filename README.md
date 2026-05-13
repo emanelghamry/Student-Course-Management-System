@@ -4,7 +4,6 @@ A C++ console application for managing student records, academic performance, an
 ## Project Deliverables
 - **GitHub Link:** [github.com/emanelghamry]
 - **Documentation:** Comprehensive PDF report including Analysis, Design, and Testing.
-
 ## Core Features
 - **Student Management:** Create, Read, Update, and Delete (CRUD) operations for student data.
 - **Course Tracking:** Enroll students in unique courses using `std::set`.
