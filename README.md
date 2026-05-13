@@ -16,3 +16,6 @@ A C++ console application for managing student records, academic performance, an
 3. Compile the code:
    ```bash
    g++ main.cpp -o StudentSystem
+
+
+-------------------------
